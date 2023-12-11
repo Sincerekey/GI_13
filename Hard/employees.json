@@ -1,0 +1,64 @@
+{
+    "employees": [
+      {
+        "name": "James",
+        "salary": 100000,
+        "employeeID": 11,
+        "department": "Management"
+      },
+      {
+        "name": "Jose",
+        "salary": 90000,
+        "employeeID": 12,
+        "department": "Housing"
+      },
+      {
+        "name": "Jess",
+        "salary": 100000,
+        "employeeID": 13,
+        "department": "Pet"
+      },
+      {
+        "name": "Jim",
+        "salary": 70000,
+        "employeeID": 14,
+        "department": "Garden"
+      },
+      {
+        "name": "Jaciline",
+        "salary": 75000,
+        "employeeID": 15,
+        "department": "Recruitment"
+      },
+      {
+        "name": "Jermaine",
+        "salary": 88000,
+        "employeeID": 16,
+        "department": "Payroll"
+      },
+      {
+        "name": "Jocelyn",
+        "salary": 110000,
+        "employeeID": 17,
+        "department": "Accounting"
+      },
+      {
+        "name": "Jaquan",
+        "salary": 60000,
+        "employeeID": 18,
+        "department": "Merchandise"
+      },
+      {
+        "name": "Josiphine",
+        "salary": 90000,
+        "employeeID": 19,
+        "department": "Development"
+      },
+      {
+        "name": "Jill",
+        "salary": 60000,
+        "employeeID": 20,
+        "department": "Loss Prevention"
+      }
+    ]
+  }
